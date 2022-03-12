@@ -94,3 +94,20 @@ _self - Default. Opens the document in the same window/tab as it was clicked
 _blank - Opens the document in a new window or tab
 _parent - Opens the document in the parent frame
 _top - Opens the document in the full body of the window
+
+
+
+Use the HTML <img> element to define an image
+Use the HTML src attribute to define the URL of the image
+Use the HTML alt attribute to define an alternate text for an image, if it cannot be displayed
+Use the HTML width and height attributes or the CSS width and height properties to define the size of the image
+Use the CSS float property to let the image float to the left or to the right
+
+<img>	Defines an image
+<map>	Defines an image map
+<area>	Defines a clickable area inside an image map
+<picture>	Defines a container for multiple image resources
+
+Используйте элемент HTML <map>для определения карты изображения
+Используйте <area>элемент HTML для определения интерактивных областей на карте изображения.
+Используйте usemapатрибут HTML <img>элемента, чтобы указать на карту изображения
